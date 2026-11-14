@@ -1,0 +1,10 @@
+*
+!*/
+!*.cpp
+!README.md
+!.gitignore
+.vscode/
+output/
+*.exe
+*.docx
+*.pdf
